@@ -21,6 +21,7 @@
     "@formkit/icons": "^0.17.4",
     "@formkit/nuxt": "^0.17.4",
     "@formkit/themes": "^0.17.4",
+    "@nuxtjs/axios": "^5.13.6",
     "axios": "^1.4.0"
   }
 }
